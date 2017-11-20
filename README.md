@@ -1,1 +1,1 @@
-IoT Data Hackathorn 2017
+IoT Data Hackathon 2017
